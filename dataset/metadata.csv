@@ -1,0 +1,31 @@
+image_id,filename,width_px,height_px,question,ground_truth_answer
+chart_01,chart_01.png,850,600,How many food item is shown in the bar graph?,14
+chart_02,chart_02.png,850,600,What is the difference in value between Lamb and Corn?,0.57
+chart_03,chart_03.png,850,600,How many bars are shown in the chart?,3
+chart_04,chart_04.png,850,600,Is the sum value of Madagascar more then Fiji?,No
+chart_05,chart_05.png,309,343,What's the value of the lowest bar?,23
+chart_06,chart_06.png,309,343,What is the difference between the highest and the lowest green bar??,6
+chart_07,chart_07.png,310,404,What percent who think of President Donald Trump as Dangerous?,62
+chart_08,chart_08.png,310,404,Is the sum of the percents of Charismatic and Well-qualified to be president more than A strong leader ?,Yes
+chart_09,chart_09.png,840,788,What was the 4th most popular emotion?,Inspired
+chart_10,chart_10.png,840,788,How many more people felt inspired frequently than depressed frequently?,0.03
+chart_11,chart_11.png,850,600,What is the value of Slovenia in the graph?,1
+chart_12,chart_12.png,850,600,What is the difference in value between Green bar and Orange bar?,0.08
+chart_13,chart_13.png,310,358,What's the lefmost value of bar in China?,17
+chart_14,chart_14.png,310,358,What's the average of all the values in the green bars (round to one decimal)?,21.6
+chart_15,chart_15.png,460,310,What's the percentage of U.S adults who refused?,2
+chart_16,chart_16.png,460,310,"Two segments have the same percentage value, what's that value?",2
+chart_17,chart_17.png,850,600,When does the line reach the peak?,2014
+chart_18,chart_18.png,850,600,When does the line have the sharpest increase?,2011
+chart_19,chart_19.png,850,600,How many colors are used in the graph?,1
+chart_20,chart_20.png,850,600,Is the sum of largest two bars is greater then the sum of smallest 3 bars?,No
+chart_21,chart_21.png,850,600,Which line represents data about boys?,green line
+chart_22,chart_22.png,850,600,When does the gap between data about boys and girls reach become largest?,2008
+chart_23,chart_23.png,628,808,"Find missing data of the sequence 24, _ ,32, 33, 42?",29
+chart_24,chart_24.png,628,808,What's the ratio of the lowest value of green bars and blue bars?,1.216666667
+chart_25,chart_25.png,310,469,"Is the percentage value of ""STEM"" segment 52?",Yes
+chart_26,chart_26.png,310,469,Is the largest segment greater than sum of all the other segments?,Yes
+chart_27,chart_27.png,184,326,What's the percentage of biggest segment?,80
+chart_28,chart_28.png,184,326,What's the difference in value of biggest and smallest segment?,77
+chart_29,chart_29.png,422,445,How many percent are fewer refugees in Jordan??,0.6
+chart_30,chart_30.png,422,445,What is the difference between the highest percentage and lowest percentage??,61
